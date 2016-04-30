@@ -7,6 +7,4 @@ GoLocalStaff2
 * **FinalPresentationSlides:    Contains GoLocalApp final presentation.
 * **Posters**                   Contains the Team Members Posters.
 * **Vides**                     Contains Intro,User Guide,Intallation & Maintenance Video.
-~                                                                                                                                                               
-~                                                                                                                                                               
-~           
+          
