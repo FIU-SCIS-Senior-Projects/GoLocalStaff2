@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15A284" minimumToolsVersion="Automatic">
+    <entity name="JobData" representedClassName="JobDatabase" syncable="YES">
+        <attribute name="jobDays" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobHours" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobLocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobQualifications" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobRequirements" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobSalary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="StaffUser" syncable="YES">
+        <attribute name="bodyPhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="selfiePhoto" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="JobData" positionX="178" positionY="-9" width="119" height="178"/>
+        <element name="StaffUser" positionX="-54" positionY="-9" width="128" height="90"/>
+    </elements>
+</model>
